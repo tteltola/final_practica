@@ -1,0 +1,33 @@
+[
+    {
+        "id_usuario": 1,
+        "nombre_usuario": "Liliana",
+        "apellido_usuario": "Zalasar",
+        "historial_eventos": "Salta Rock,Cosquín Rock"
+    },
+    {
+        "id_usuario": 2,
+        "nombre_usuario": "Juan",
+        "apellido_usuario": "Romero",
+        "historial_eventos":  "Lollapalooza,Movistar Arena"
+    },
+    {
+        "id_usuario": 3,
+        "nombre_usuario": "Maria",
+        "apellido_usuario": "Madril",
+        "historial_eventos": "Serenata a Cafayate, Movistar Arena, Rock"
+    },
+    {
+        "id_usuario": 4,
+        "nombre_usuario": "Kaoru",
+        "apellido_usuario": "Sol",
+        "historial_eventos": "Movistar Arena, Salta Rock, Cosquín Rock"
+    },
+    {
+        "id_usuario": 5,
+        "nombre_usuario": "Santiago",
+        "apellido_usuario": "Coman",
+        "historial_eventos": "Cosquín Rock, Salta Rock, Cosquín Rock"
+    }
+]
+

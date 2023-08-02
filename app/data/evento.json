@@ -1,0 +1,57 @@
+[
+    {
+        "nombre": "Salta Rock",
+        "imagen": "image_1.png",
+        "genero": "Rock",
+        "artista":"Las Pelotas",
+        "descripcion" : "Impresionante",
+        "fecha": "02/02/2023",
+        "hora_inicio" : "20:00 hs",
+        "hora_fin" : "24:00 hs",
+        "id_ubicacion": 1
+    },
+    {
+        "nombre": "Lollapalooza",
+        "imagen": "image_2.png",
+        "genero": "Pop",
+        "artista":"Abel pintos",
+        "descripcion": "Excelente",
+        "fecha": "21/05/2023",
+        "hora_inicio": "20:00 hs",
+        "hora_fin": "23:00 hs",
+        "id_ubicacion": 2
+    },
+    {
+        "nombre": "Serenata a Cafayate",
+        "imagen": "image_3.png",
+        "genero": "Folclore",
+        "artista":"Lázaro Caballero",
+        "descripcion": "Tradicional",
+        "fecha": "20/02/2023",
+        "hora_inicio": "22:00 hs",
+        "hora_fin": "00:00 hs",
+        "id_ubicacion": 3
+    },
+    {
+        "nombre": "Movistar Arena",
+        "imagen": "image_4.png",
+        "genero": "Pop",
+        "artista":"Rosalia",
+        "descripcion" : "Flamenco contemporáneo",
+        "fecha": "07/10/2023",
+        "hora_inicio" : "21:00hs",
+        "hora_fin" :"23:00 hs",
+        "id_ubicacion": 4
+    },
+    {
+        "nombre": "Cosquín Rock",
+        "imagen": "image_5.png",
+        "genero": "Pop rock Rock",
+        "artista":"Babasónicos",
+        "descripcion" : "Impresionante",
+        "fecha": "19/03/2023",
+        "hora_inicio":"24:00 hs",
+        "hora_fin" : "01:00 hs",
+        "id_ubicacion": 5
+    }
+]

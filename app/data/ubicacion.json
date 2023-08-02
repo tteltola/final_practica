@@ -1,0 +1,38 @@
+
+[
+    {
+        "id" : 1,
+        "direccion": "Zuviría 70",
+        "localidad": "Salta",
+        "latitud": -24.78,
+        "longitud": -65.42
+    },
+    {
+        "id" : 2,
+        "direccion": "Av. Bernabé Marquez 700, B1642 ",
+        "localidad": "San Isidro",
+        "latitud": -34.47,
+        "longitud": -58.52
+    },
+    {
+        "id" : 3,
+        "direccion": "RN 68 RN 40",
+        "localidad": "Cafayate",
+        "latitud": -26.07,
+        "longitud": -65.97
+    },
+    {
+        "id" : 4,
+        "direccion": "Humboldt 450 C1414",
+        "localidad":"Ciudad Autónoma de Buenos Aires",
+        "latitud": -58.37,
+        "longitud": -34.62
+    },
+   {
+        "id" : 5,
+        "direccion": "Marcelo T. de Alvear 120",
+        "localidad":"Córdoba",
+        "latitud": -31.42,
+        "longitud": -56.18
+    } 
+]
